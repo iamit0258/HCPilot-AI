@@ -32,7 +32,7 @@ async def lifespan(app: FastAPI):
 app = FastAPI(
     title="HCPilot AI",
     description="AI-First CRM for Intelligent Healthcare Professional Engagement",
-    version="1.0.0",
+    version="1.0.1",
     lifespan=lifespan,
 )
 

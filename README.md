@@ -4,7 +4,7 @@
 
 An AI-powered Customer Relationship Management system designed for pharmaceutical field representatives. Instead of manually filling CRM forms, representatives simply describe their interactions in natural language — the AI automatically extracts structured data and populates the form.
 
-![Tech Stack](https://img.shields.io/badge/React-TypeScript-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-green) ![LangGraph](https://img.shields.io/badge/LangGraph-AI_Agent-purple) ![Groq](https://img.shields.io/badge/Groq-Gemma2_9B-orange)
+![Tech Stack](https://img.shields.io/badge/React-TypeScript-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-green) ![LangGraph](https://img.shields.io/badge/LangGraph-AI_Agent-purple) ![Groq](https://img.shields.io/badge/Groq-Gemma2_9B-orange) ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 
 ---
 
